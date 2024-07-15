@@ -1,5 +1,3 @@
-library(usethis)
-
 kmh_in_ms <- function(kmh) {
   ms = kmh/3.6
   return (ms)
